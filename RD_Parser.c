@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "lab6_1.c"
+#include "lexical_analyzer.c"
 
 int error = 0;
 FILE *fp1;
